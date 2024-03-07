@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JonathanM-A
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on SQL projects
+- 📫 How to reach me kamajthomas@gmail.com
+- 😄 Pronouns: He/Him
